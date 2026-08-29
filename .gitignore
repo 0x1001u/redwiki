@@ -1,0 +1,78 @@
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker
+.dockerenv
+
+# Coverage
+.coverage
+htmlcov/
+.coverage.*
+.cov.config
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# Environment variables
+.env
+.env.local
+*.env.*
+
+# Dependencies lock files (if not needed in version control)
+Pipfile.lock
+poetry.lock
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+```
